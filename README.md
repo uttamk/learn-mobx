@@ -1,11 +1,9 @@
-# React-TypeScript
+# Learn Mobx
 
-Minimal boilerplate for a single-page app using MobX, React and TypeScript with TSX.
+A simple app to learn the fundamentals of writing a single page app using Mobx for managing state in react
 
 Initial run:
 
 * Install Node.js
 * `npm install`
 * `npm start`
-
-For simplicity sake Webpack Hot Module Reloading is disabled. If you want to use HMR, see the [Reactive2015 demo](https://github.com/mobxjs/mobx-reactive2015-demo) to see a valid setup.
